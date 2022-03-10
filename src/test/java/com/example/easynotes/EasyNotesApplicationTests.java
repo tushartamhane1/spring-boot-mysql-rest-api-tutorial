@@ -6,7 +6,7 @@ import org.springframework.boot.test.context.SpringBootTest;
 @SpringBootTest
 public class EasyNotesApplicationTests {
 
-	@Test
+	//@Test
 	public void contextLoads() {
 	}
 
